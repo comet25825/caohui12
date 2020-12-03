@@ -1,2 +1,2 @@
-testSort:sort.c testSort.c
-	gcc -g sort.c testSort.c -o test
+testStack:
+	gcc -g stack.c testStack.c -o test
